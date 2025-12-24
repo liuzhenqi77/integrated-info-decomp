@@ -26,6 +26,6 @@ Citation
 --------
 
 If you use :code:`phyid` in your research, please cite the following papers: 
--Mediano, Rosas, et al. (2021) Towards an extended taxonomy of information dynamics via Integrated Information Decomposition. arXiv.
--Luppi et al. (2022) A synergistic core for human brain evolution and cognition. Nature Neuroscience 25, 771–782.
+-Mediano, Rosas, et al. (2025) Toward a unified taxonomy of information dynamics via Integrated Information Decomposition. PNAS (https://doi.org/10.1073/pnas.242329712).
+-Luppi et al. (2022) A synergistic core for human brain evolution and cognition. Nature Neuroscience 25, 771–782 (https://doi.org/10.1038/s41593-022-01070-0).
 
